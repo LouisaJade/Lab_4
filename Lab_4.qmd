@@ -5,6 +5,8 @@ format:
     code-fold: true
     toc: true
 subtitle: 'Introduction to Statistics in R'
+execute: 
+  echo: true
 ---
 
 ```{r, include = F}
