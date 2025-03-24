@@ -1,7 +1,8 @@
 ---
 title: "Lab 4: LTER Network Data"
 format:
-   html:
+  html:
+    self-contained: true
     code-fold: true
     toc: true
 subtitle: 'Introduction to Statistics in R'
